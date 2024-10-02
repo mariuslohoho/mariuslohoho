@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+For commissions: Receipt of payment of a 50% deposit activates our agreement. The remainder is to be settled within 24 hours of mailing
+
 <!--
 **mariuslohoho/mariuslohoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
